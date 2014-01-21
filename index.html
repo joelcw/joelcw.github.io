@@ -6,7 +6,7 @@
 <head>
 	<link rel="stylesheet" href="/css/site.css">
 	<script src="/js/site.js"></script>
-	<title>My Blog</title>
+	<title>Agitated Quaker</title>
 </head>
 <body>
 	<header>
@@ -15,9 +15,11 @@
 	<div class="container">
 		{% for post in site.posts %}
 			<article>
+			  <center>
 				<h1><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></h1>
 				<p>{{ post.date | date_to_string }}</p>
 				<p>{{ post.content }}</p>
+				</center>
 			</article>
 		{% endfor %}
 	</div>
