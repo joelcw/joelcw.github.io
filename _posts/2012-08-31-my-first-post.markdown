@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Post"
+title: "Test"
 ---
 
-This is my first post!  Don't I rule?
+Ok what is going **on** here.
