@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "Test"
+title: "Silence = Death"
 ---
-
-Trying a heading
-================
 
 Ok what is going **on** here.
