@@ -19,7 +19,6 @@ Connecting these different communities may be a wild idea, but I think they shar
 1. Frequent interaction with (sometimes poorly trained) mental health services.
 1. Lots of stigma.
 1. I suspect that people under one of these categories often show up under another one, too (though I could easily be wrong about this).
-1. test
 
 I would like to find a way to unite this diverse set of people and do the following: help direct members of these communities to the best services for them, and bring pressure to bear on the broad medical community to improve services in these areas.
 
