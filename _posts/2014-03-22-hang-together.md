@@ -52,7 +52,7 @@ I've been getting excited about possibility 3, as a short/medium-term goal. If i
 
 1. A Board of Trustees (and/or researchers) which represents *all* of the communities I have mentioned (and any others you'd like included). I repeat: I represent one community at least, but I CANNOT GO IT ALONE here as I do not represent most of these communities.
 
-2. A good programmer for the website (html and related coding). Hopefully this person could be employed by us, given...
+2. A good programmer for the website (html and related coding). Hopefully this person could be employed by us, given . . .
 
 3. Funds for a programmer and possibly some other part-time work, which should be gettable through a Kickstarter. (But I would like a programmer and Board of Trustees to be in place before we start raising any money, to prove the project is viable.)
 
