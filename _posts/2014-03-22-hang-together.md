@@ -12,7 +12,7 @@ title: "Hang Together"
 
 ##Loomings
 
-For some months now, I've had the powerful intuition that a number of apparently unrelated groups of people share an important thing in common: they fall into some highly stigmatized category, and have to deal with mental health professionals, mental health charities, and/or other members of the medical community (broadly defined) relating to their stigmatised circumstances or conditions. Here are the communities I have in mind: Trans/Genderqueer/Gender-nonconforming people who need to deal with medical professionals regarding gender in some way, LBGP people who deal with the same professionals regarding sexuality, addicts/alcoholics, people suffering from depression, anxiety, or PTSD (especially with PTSD related to sexual assault or other ``domestic'' violence).
+For some months now, I've had the powerful intuition that a number of apparently unrelated groups of people share an important thing in common: they fall into some highly stigmatized category, and have to deal with mental health professionals, mental health charities, and/or other members of the medical community (broadly defined) relating to their stigmatised circumstances or conditions. Here are the communities I have in mind: Trans/Genderqueer/Gender-nonconforming people who need to deal with medical professionals regarding gender in some way, LBGP people who deal with the same professionals regarding sexuality, addicts/alcoholics, people suffering from depression, anxiety, or PTSD (especially with PTSD related to sexual assault or other "domestic" violence).
 
 Connecting these different communities may be a wild idea, but I think they share the following in common, and so would be natural allies:  
 
@@ -43,20 +43,20 @@ We'd have to set up a rating system on a number of criteria, and think carefully
 
 The hope would be to build on existing national databases of health care institutions, charities, etc., and use the experiences of user communities to distinguish between those institutions that understand our problems and have helped us to a healthy outcome, and those that didn't. The big investment here would be setting up a website, doing some basic research, and some non-trivial html coding.
 
-I've been getting excited about possibility #3, as a short/medium-term goal. If it works, the effect could be twofold: first, people who have to engage with one of the institutions on the list can find out what to expect (or where to go instead). Secondly, if it becomes a well-used and well-known system, the institutions and medical people themselves might be put in the position of competing for better ratings -- or at least, to not show up with really nastily bad marks.
+I've been getting excited about possibility 3, as a short/medium-term goal. If it works, the effect could be twofold: first, people who have to engage with one of the institutions on the list can find out what to expect (or where to go instead). Secondly, if it becomes a well-used and well-known system, the institutions and medical people themselves might be put in the position of competing for better ratings -- or at least, to not show up with really nastily bad marks.
 
 
 ##The Ship (Or, what we would need for Option 3)
 
-1.  A Board of Trustees (and/or researchers) which represents *all* of the communities I have mentioned (and any others you'd like included). I repeat: I represent one community at least, but I CANNOT GO IT ALONE here as I do not represent most of these communities.
+1. A Board of Trustees (and/or researchers) which represents *all* of the communities I have mentioned (and any others you'd like included). I repeat: I represent one community at least, but I CANNOT GO IT ALONE here as I do not represent most of these communities.
 
-2.  A good programmer for the website (html and related coding). Hopefully this person could be employed by us, given...
+2. A good programmer for the website (html and related coding). Hopefully this person could be employed by us, given...
 
-3.  Funds for a programmer and possibly some other part-time work, which should be gettable through a Kickstarter. (But I would like a programmer and Board of Trustees to be in place before we start raising any money, to prove the project is viable.)
+3. Funds for a programmer and possibly some other part-time work, which should be gettable through a Kickstarter. (But I would like a programmer and Board of Trustees to be in place before we start raising any money, to prove the project is viable.)
 
-4.  A name. I thought of a cool acronym, which may not quite work: DATASeT, standing for: Depression, Anxiety, Trauma, Addiction, Sexuality, Transition (though perhaps "transition" isn't really the right description, and it should be something more like "gender"...).
+4. A name. I thought of a cool acronym, which may not quite work: DATASeT, standing for: Depression, Anxiety, Trauma, Addiction, Sexuality, Transition (though perhaps "transition" isn't really the right description, and it should be something more like "gender"...).
 
-Another name for the organisation might be ``Hang Together'', as I find the quotation we began with above to be fitting for our constituencies (with a certain morbid humor).
+Another name for the organisation might be "Hang Together", as I find the quotation we began with above to be fitting for our constituencies (with a certain morbid humor).
 
 ##All Astir
 
