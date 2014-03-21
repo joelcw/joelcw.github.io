@@ -3,7 +3,7 @@ layout: post
 title: "Silence = Death"
 ---
 
-#Coming Out
+##Coming Out
 
 In many ways this is a "coming out" post, and I am uncertain of the reaction of many of my acquaintances, particularly my professional colleagues. But as the AIDS-advocacy movement has warned for years (where I take the title of this post from), I believe strongly that hiding dangerous conditions just because they are stigmatized, or especially when they are stigmatized, is itself very dangerous.
 
@@ -11,7 +11,7 @@ I am a recovered alcoholic. For me, this means I have not had to take a drink fo
 
 (Any more detail about treatments for alcoholism would have to be the subject of another post, but please get in touch if you know someone who might benefit from this information.)
 
-#Why Come Out Publicly?
+##Why Come Out Publicly?
 
 As Larry Kramer once shouted into an ACT-UP meeting that had lost its focus, "PLAGUE!" Lots of people die from alcoholism, and addiction in general, and we need to talk about it more in order to address it at all. It's also not a nice death. I've seen it, up close and personal, and your skin, eyes, and mouth turn a dark greenish yellow, before your organs start to fail while your mind is tortured with hallucinations. There are no functional alcoholics, by the way, not really, and not in the long-term: it is a progressive illness and always arrives at the end stage if untreated (if the person continues drinking), unless you die of violence, suicide, or some acute complication of alcoholism first. And many people die of it without knowing that there is a treatment, and often die without their *doctors* knowing there's a treatment. Sometimes medical, and even *mental health*, professionals don't even know what the symptons look like. But no one will know these things if everyone is too afraid of the stigma to speak out about it.
 
@@ -25,7 +25,7 @@ Coming out lets friends, family, colleagues know that an issue affects someone t
 
 (See also [Time to Change](http://www.time-to-change.org.uk/) for fighting the stigma associated with mental health conditions in general.)
 
-#Afterwords
+##Afterwords
 
 If anyone who knew me through these times is thinking, "I knew you back then, and you were weren't doing too bad...you're not a real alcoholic"...believe me, I am. I was in real danger for a long period of time, and I am very fortunate to be alive and healthy today. Note that keeping work under some amount of control, or seemingly intellectually with it is not a sign of mental health or lack of addiction; we addicts are strong-willed people, often capable of rather incendiary will-power in order to get up for work with a hangover, feeling nauseous, sweaty, and having panic-attacks throughout the day...every day, and still *seem* to hold it together. It makes it all the more striking that our will-power is useless against our addictions themselves; when it comes, as it did for me, the power to overcome addiction comes from elsewhere.
 
