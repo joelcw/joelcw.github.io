@@ -39,7 +39,8 @@ Assuming you're on board with me so far, we have some choices to make as to stra
 
 3.  Set up a website to serve as both a pressure-building campaign and an informational resource for our communities: a site where people can log their experiences with various physicians, clinics, hospitals, charities, etc., all over the world, and **rate** them online. We would need a numerical rating system and a place for prose comments, both of which would have to be moderated.
 
-We'd have to set up a rating system on a number of criteria, and think carefully about what questions we ask people to base their ratings on; e.g. good questions might be, ``Did they treat you respectfully?'', or ``How well did they explain the purpose of the consultation and the role of the professional conducting it?'' (One might imagine examples of less useful questions.)
+We'd have to set up a rating system on a number of criteria, and think carefully about what questions we ask people to base their ratings on; e.g. good questions might be, "Did they treat you respectfully?", or "How well did they explain the purpose of the consultation and the role of the professional conducting it?"
+(One might imagine examples of less useful questions.)
 
 The hope would be to build on existing national databases of health care institutions, charities, etc., and use the experiences of user communities to distinguish between those institutions that understand our problems and have helped us to a healthy outcome, and those that didn't. The big investment here would be setting up a website, doing some basic research, and some non-trivial html coding.
 
