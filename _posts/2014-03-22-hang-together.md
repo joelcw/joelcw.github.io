@@ -8,7 +8,7 @@ title: "Hang Together"
 
 > We must, indeed, all hang together, or assuredly we shall all hang separately.  
 
-Quotation [attributed](http://en.wikiquote.org/wiki/Benjamin_Franklin) to Benjamin Franklin at the signing of the Declaration of Independence (though it may be due to Richard Penn...or someone else).
+Quotation [attributed](http://en.wikiquote.org/wiki/Benjamin_Franklin) to Benjamin Franklin at the signing of the Declaration of Independence (though it may be due to Richard Penn...or someone else).  
 
 ##Loomings
 
