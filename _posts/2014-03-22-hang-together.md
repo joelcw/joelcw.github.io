@@ -13,7 +13,7 @@ Quotation [attributed](http://en.wikiquote.org/wiki/Benjamin_Franklin) to Benjam
 
 ##Loomings
 
-For some months now, I've had the powerful intuition that a number of apparently unrelated groups of people share an important thing in common: they fall into some highly stigmatized category, and have to deal with mental health professionals, mental health charities, and/or other members of the medical community (broadly defined) relating to their stigmatised circumstances or conditions. Here are the communities I have in mind: Trans/Genderqueer/Gender-nonconforming people who need to deal with medical professionals regarding gender in some way, LBGP people who deal with the same professionals regarding sexuality, addicts/alcoholics, people suffering from depression, anxiety, or PTSD (especially with PTSD related to sexual assault or other "domestic" violence).
+For some months now, I've had the powerful intuition that a number of apparently unrelated groups of people share an important thing in common: they fall into some highly stigmatized category, and have to deal with mental health professionals, mental health charities, and/or other members of the medical community (broadly defined) relating to their stigmatized circumstances or conditions. Here are the communities I have in mind: Trans/Genderqueer/Gender-nonconforming people who need to deal with medical professionals regarding gender in some way, LBGP people who deal with the same professionals regarding sexuality, addicts/alcoholics, people suffering from depression, anxiety, or PTSD (especially with PTSD related to sexual assault or other "domestic" violence).
 
 Connecting these different communities may be a wild idea, but I think they share the following in common, and so would be natural allies:  
 
@@ -25,7 +25,7 @@ I would like to find a way to unite this diverse set of people and do the follow
 
 I've come up with three possible directions for a new movement to do this, which I outline below. At the moment, the third option seems to me to be the most feasible in the short term, but I would like to hear your opinions (via Twitter [@quakerscientist](https://twitter.com/quakerscientist)).
 
-If a number of people get interested in one of the options I outline below, I'd like to set up a board of trustees to run the project involving representatives from each of the stigmatised groups. Personally, I'm a recovered alcoholic, so that's the only community I can speak for or about out of personal experience (see my last post for a little more discussion of that issue). I also come into this through having close friends or family who are in the other categories, but I would *never*, ever, ever, presume to speak for an oppressed group which I am not a member of.
+If a number of people get interested in one of the options I outline below, I'd like to set up a board of trustees to run the project involving representatives from each of the stigmatized groups. Personally, I'm a recovered alcoholic, so that's the only community I can speak for or about out of personal experience (see my last post for a little more discussion of that issue). I also come into this through having close friends or family who are in the other categories, but I would *never*, ever, ever, presume to speak for an oppressed group which I am not a member of.
 
 
 ##Clam or Cod
