@@ -10,6 +10,7 @@ title: "Hang Together"
 
 Quotation [attributed](http://en.wikiquote.org/wiki/Benjamin_Franklin) to Benjamin Franklin at the signing of the Declaration of Independence (though it may be due to Richard Penn...or someone else).  
 
+
 ##Loomings
 
 For some months now, I've had the powerful intuition that a number of apparently unrelated groups of people share an important thing in common: they fall into some highly stigmatized category, and have to deal with mental health professionals, mental health charities, and/or other members of the medical community (broadly defined) relating to their stigmatised circumstances or conditions. Here are the communities I have in mind: Trans/Genderqueer/Gender-nonconforming people who need to deal with medical professionals regarding gender in some way, LBGP people who deal with the same professionals regarding sexuality, addicts/alcoholics, people suffering from depression, anxiety, or PTSD (especially with PTSD related to sexual assault or other "domestic" violence).
