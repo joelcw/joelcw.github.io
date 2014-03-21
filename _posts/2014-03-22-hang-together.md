@@ -23,7 +23,7 @@ Connecting these different communities may be a wild idea, but I think they shar
 
 I would like to find a way to unite this diverse set of people and do the following: help direct members of these communities to the best services for them, and bring pressure to bear on the broad medical community to improve services in these areas.
 
-I've come up with three possible directions for a new movement to do this, which I outline below. At the moment, the third option seems to me to be the most feasible in the short term, but I would like to hear your opinions (via Twitter @quakerscientist).
+I've come up with three possible directions for a new movement to do this, which I outline below. At the moment, the third option seems to me to be the most feasible in the short term, but I would like to hear your opinions (via Twitter [@quakerscientist](https://twitter.com/quakerscientist)).
 
 If a number of people get interested in one of the options I outline below, I'd like to set up a board of trustees to run the project involving representatives from each of the stigmatised groups. Personally, I'm a recovered alcoholic, so that's the only community I can speak for or about out of personal experience (see my last post for a little more discussion of that issue). I also come into this through having close friends or family who are in the other categories, but I would *never*, ever, ever, presume to speak for an oppressed group which I am not a member of.
 
@@ -52,7 +52,7 @@ I've been getting excited about possibility 3, as a short/medium-term goal. If i
 
 1. A Board of Trustees (and/or researchers) which represents *all* of the communities I have mentioned (and any others you'd like included). I repeat: I represent one community at least, but I CANNOT GO IT ALONE here as I do not represent most of these communities.
 
-2. A good programmer for the website (html and related coding). Hopefully this person could be employed by us, given . . .
+2. A good programmer for the website (html and related coding). Hopefully this person could be employed by us, given:
 
 3. Funds for a programmer and possibly some other part-time work, which should be gettable through a Kickstarter. (But I would like a programmer and Board of Trustees to be in place before we start raising any money, to prove the project is viable.)
 
