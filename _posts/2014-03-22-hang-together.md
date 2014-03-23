@@ -42,7 +42,7 @@ Assuming you're on board with me so far, we have some choices to consider with r
 
 ###More detail on Option 3
 
-I've been getting excited about possibility 3, as a short/medium-term goal. If it works, the effect could be twofold: first, people who have to engage with one of the institutions on the list can find out what to expect (or where to go instead). Secondly, if it becomes a well-used and well-known system, the institutions and medical people themselves might be put in the position of competing for better ratings -- or at least, to not show up with really nastily bad marks.
+I've been getting excited about Choice 3, as a short/medium-term goal. If it works, the effect could be twofold: first, people who have to engage with one of the institutions on the list can find out what to expect (or where to go instead). Secondly, if it becomes a well-used and well-known system, the institutions and medical people themselves might be put in the position of competing for better ratings -- or at least, to not show up with really nastily bad marks.
 
 For Choice 3 to work, we'd have to set up a rating system on a number of criteria, and think carefully about what questions we ask people to base their ratings on; e.g. good questions might be, "Did they treat you respectfully?", or "How well did they explain the purpose of the consultation and the role of the professional conducting it?"
 (One might imagine examples of less useful questions.)
