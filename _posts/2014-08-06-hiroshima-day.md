@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hiroshima Day, 2014: first Grassy Narrows post"
+title: "Hiroshima Day, 2014"
 ---
 
 ##En Route to Grassy Narrows
