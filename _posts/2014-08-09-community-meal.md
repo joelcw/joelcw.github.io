@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "[CPT AJT](http://cpt.org/work/aboriginal_justice) Delegation Day 0:  
+title: "CPT Aboriginal Justice Delegation Day 0:  
+
 The Adventure of the Community Meal (i.e. Soup Kitchen)"
 ---
 
